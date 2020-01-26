@@ -1,4 +1,4 @@
-![](docs/images/iotera_logo.png)
+<img src=docs/images/iotera_logo.png width="10%" height="10%">
 # Bluetera Hardware
 
 This repository contains the KiCad project for the Bluetera II and it's breakout adapter.
